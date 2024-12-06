@@ -5,7 +5,7 @@ Data Scientist, обладающий знаниями в области маши
 
 ### Навыки
 * Языки программирования: Python, R;
-* DS/ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, Keras;
+* DS/ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, Keras, PyTorch, Ultralytics;
 * Базы данных: PostreSQL, Microsoft SQL Server.
 
 
